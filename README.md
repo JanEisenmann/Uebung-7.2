@@ -8,7 +8,7 @@ Uebung-7.2
 3. drei
 
 
-| Tables        | Are           | Cool  |
+| A        | B          | C |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
